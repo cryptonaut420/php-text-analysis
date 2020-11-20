@@ -1,5 +1,5 @@
 {
-    "name": "yooper/php-text-analysis",
+    "name": "cryptonaut420/php-text-analysis",
     "description": "PHP Text Analysis is a library for performing Information Retrieval (IR) and Natural Language Processing (NLP) tasks using the PHP language",
     "keywords": ["nlp","ir","text analysis","natural language processing", "text classification"],
     "license": "MIT",
@@ -23,7 +23,7 @@
         "php": ">=7.1",
         "yooper/stop-words": "~1",
         "symfony/console": "~4.0 || ~5.0",
-        "wamania/php-stemmer": "~1",
+        "wamania/php-stemmer": "2.1",
         "yooper/nicknames": "~1",
         "vanderlee/php-sentence": "~1.0"
     },
